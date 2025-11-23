@@ -1,0 +1,1 @@
+tourism_project/artifacts/final_model.joblib
